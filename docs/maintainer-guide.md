@@ -38,7 +38,7 @@ pnpm release:dry
 
 ```bash
 corepack enable
-git clone https://github.com/Promisezhangbo/openapi-axios-sdk.git
+git clone https://github.com/promise-zb/openapi-axios-sdk.git
 cd openapi-axios-sdk
 pnpm install
 ```

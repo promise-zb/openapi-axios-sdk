@@ -1,6 +1,6 @@
 {
   "name": "openapi-axios-sdk",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "description": "Generate fully-typed Axios SDKs from OpenAPI / Swagger specs. Multi-spec runtime isolation (BASE / token / headers don't pollute each other), incremental cache, defineConfig + CLI. Built on top of @hey-api/openapi-ts.",
   "keywords": [
     "axios",
@@ -22,7 +22,7 @@
   "author": "Promisezhangbo <promise.zhangbo@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Promisezhangbo/openapi-axios-sdk.git"
+    "url": "https://github.com/promise-zb/openapi-axios-sdk.git"
   },
   "bin": {
     "openapi-gen": "./bin/openapi-gen.mjs"

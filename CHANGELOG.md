@@ -4,6 +4,13 @@
 
 ## Unreleased
 
+## 1.0.0
+
+`2026-10-29`
+
+- chore: 仓库地址改为 `https://github.com/promise-zb/openapi-axios-sdk.git`
+- docs: 按 git 日志补全 `0.2.2` Changelog
+
 ## 0.2.2
 
 `2026-05-11`
