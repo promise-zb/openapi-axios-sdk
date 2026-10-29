@@ -4,6 +4,13 @@
 
 ## Unreleased
 
+## 0.2.2
+
+`2026-05-11`
+
+- docs: README 补充自定义请求拦截器示例（`openApiHttpClient`）
+- docs: 使用文档与维护文档继续整理（含 CI 不提交生成代码时的说明）
+- ci: CI / Release 抽成 `reusable-check.yml`，发布前先跑同源检查再 `publish`
 - chore: 新增 `pnpm release:prepare`（先 `check` 再 `pnpm version`）；用 `pnpm lint --fix`、`pnpm fmt --check` 替代 `lint:fix` / `fmt:check`
 
 ## 0.2.1
